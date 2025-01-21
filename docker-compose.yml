@@ -28,7 +28,8 @@ services:
       DB_USER: blog
       DB_PASS: blog369
       JWT_SECRET: ======================JWT=============================
-      # RESEND_API_KEY: ======================EMAIL=============================
+      RESEND_API_KEY: ======================EMAIL=============================
+      RESEND_DOMAIN:
     depends_on:
       db:
         condition: service_healthy
