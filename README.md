@@ -75,7 +75,7 @@ A modern, full-stack blogging platform built with Next.js, Spring Boot, and Post
 
 #### Required:
 
-- **Docker**: Required to run the application and its dependencies in containers.
+- **Docker** - Required to run the application and its dependencies in containers.
 
 #### Optional (for local development outside of Docker):
 
