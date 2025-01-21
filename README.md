@@ -79,9 +79,9 @@ A modern, full-stack blogging platform built with Next.js, Spring Boot, and Post
 
 #### Optional (for local development outside of Docker):
 
-- **Node.js 16+**: Needed for building or running the app locally (if not using Docker).
-- **Java 17+**: Required for building or running Java applications locally (if not using Docker).
-- **PostgreSQL 15+**: Needed for running the database locally (if not using Docker).
+- **Node.js 16+** - Needed for building or running the app locally (if not using Docker).
+- **Java 17+** - Required for building or running Java applications locally (if not using Docker).
+- **PostgreSQL 15+** - Needed for running the database locally (if not using Docker).
 
 ### Installation
 
