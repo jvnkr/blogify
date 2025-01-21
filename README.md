@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react)](https://reactjs.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?style=flat&logo=spring)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 A modern, full-stack blogging platform built with Next.js, Spring Boot, and PostgreSQL.
 
