@@ -83,8 +83,7 @@ A modern, full-stack blogging platform built with Next.js, Spring Boot, and Post
 - 1. Clone the repository with sub-modules
 
 ```bash
-git clone --recursive https://github.com/jvnkr/blogify.git
-cd blogify
+git clone --recursive https://github.com/jvnkr/blogify.git && cd blogify
 ```
 
 - 2. Start the application
