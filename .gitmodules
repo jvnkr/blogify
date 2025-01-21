@@ -1,0 +1,6 @@
+[submodule "blog-frontend"]
+	path = blog-frontend
+	url = git@github.com:jvnkr/blog-frontend.git
+[submodule "blog-backend"]
+	path = blog-backend
+	url = git@github.com:jvnkr/blog-backend.git
