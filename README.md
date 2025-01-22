@@ -97,7 +97,7 @@ git clone --recursive https://github.com/jvnkr/blogify.git && cd blogify
 docker compose up --build -d
 ```
 
-# Default Credentials
+## 🔑 Default Credentials
 
 These are the default login credentials for the application.
 
