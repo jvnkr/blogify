@@ -98,7 +98,7 @@ docker compose up --build
 ```
 
 3. Open the frontend in your browser
-Visit http://localhost:3000 to access the frontend.
+  - Visit http://localhost:3000 to access the frontend.
 
 ## 🔑 Default Credentials
 
