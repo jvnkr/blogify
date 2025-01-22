@@ -85,17 +85,20 @@ A modern, full-stack blogging platform built with Next.js, Spring Boot, and Post
 
 ### Installation
 
-- 1. Clone the repository with sub-modules
+1. Clone the repository with sub-modules
 
 ```bash
 git clone --recursive https://github.com/jvnkr/blogify.git && cd blogify
 ```
 
-- 2. Start the application
+2. Start the application
 
 ```bash
 docker compose up --build
 ```
+
+3. Open the frontend in your browser
+   Visit `http://localhost:3000` to access the frontend.
 
 ## 🔑 Default Credentials
 
