@@ -94,7 +94,7 @@ git clone --recursive https://github.com/jvnkr/blogify.git && cd blogify
 - 2. Start the application
 
 ```bash
-docker compose up --build -d
+docker compose up --build
 ```
 
 ## 🔑 Default Credentials
